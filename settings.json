@@ -347,7 +347,7 @@
 		"customCopWeapons" : 0,
 		"ragdollEnemies" : 0,
 		"pedsIgnoreEnv" : 0,
-		"burnBodyguards" : 1,
+		"burnBodyguards" : 0,
 		"explodeVehsRange" : 200,
 		"weatherPersist" : 0,
 		"saveWeather" : 0,
